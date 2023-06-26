@@ -1,0 +1,5 @@
+.receta__imagen {
+    box-sizing: border-box;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
